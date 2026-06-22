@@ -23,7 +23,7 @@ Navegador (PWA)
                                         │ pg
                                         ▼
                                  ┌────────────┐
-                                 │ PostgreSQL │  (volumen patavo_db)
+                                 │ PostgreSQL │  (volumen mapa-aventurero_db)
                                  └────────────┘
 ```
 

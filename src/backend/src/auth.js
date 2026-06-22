@@ -1,7 +1,7 @@
 const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
 
-const SECRET = process.env.JWT_SECRET || 'patavo-dev-secret-change-me';
+const SECRET = process.env.JWT_SECRET || 'mapa-aventurero-dev-secret-change-me';
 
 function hashPassword(plain) {
   return bcrypt.hash(plain, 10);

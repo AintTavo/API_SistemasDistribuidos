@@ -1,13 +1,13 @@
 #!/usr/bin/env bash
 # ══════════════════════════════════════════════════════════════════
-#  PaTavo — Monolito (API + PWA)  ·  Instalador automático
+#  El mapa del aventurero — Monolito (API + PWA)  ·  Instalador automático
 #  En una máquina limpia (Debian/Ubuntu o Fedora/RHEL):
 #      chmod +x install.sh && ./install.sh
 #  Instala Docker + Docker Compose, prepara el .env y levanta la app.
 # ══════════════════════════════════════════════════════════════════
 set -euo pipefail
 
-APP_NAME="PaTavo Monolito (api)"
+APP_NAME="El mapa del aventurero Monolito (api)"
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 COMPOSE_DIR="${SCRIPT_DIR}/src"
 PKG=""

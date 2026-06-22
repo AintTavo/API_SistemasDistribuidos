@@ -6,9 +6,9 @@ const pool = new Pool({
   connectionString: process.env.DATABASE_URL,
   host: process.env.PGHOST || 'db',
   port: process.env.PGPORT || 5432,
-  user: process.env.PGUSER || 'patavo',
-  password: process.env.PGPASSWORD || 'patavo',
-  database: process.env.PGDATABASE || 'patavo',
+  user: process.env.PGUSER || 'mapa-aventurero',
+  password: process.env.PGPASSWORD || 'mapa-aventurero',
+  database: process.env.PGDATABASE || 'mapa-aventurero',
 });
 
 async function query(text, params) {

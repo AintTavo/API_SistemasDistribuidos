@@ -1,5 +1,5 @@
 {
-  "name": "apppatavo-monolith",
+  "name": "mapa-aventurero-monolith",
   "version": "1.0.0",
   "description": "DnD party management - monolithic API + PWA",
   "main": "src/server.js",

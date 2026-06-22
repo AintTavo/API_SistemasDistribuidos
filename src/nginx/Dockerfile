@@ -1,4 +1,4 @@
-# ── PaTavo (monolito) — Imagen Nginx para el front-end ────────────
+# ── El mapa del aventurero (monolito) — Imagen Nginx para el front-end ────────────
 # El contexto de build es api/src (ver docker-compose.yml) para poder
 # copiar tanto el front del backend como la configuración de nginx.
 FROM nginx:1.27-alpine

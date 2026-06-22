@@ -1,5 +1,5 @@
 -- ============================================================
--- AppPaTavo - Esquema relacional conjunto (monolito)
+-- El mapa del aventurero - Esquema relacional conjunto (monolito)
 -- Una sola base de datos compartida por los 3 modos.
 -- ============================================================
 

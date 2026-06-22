@@ -1,4 +1,4 @@
-# PaTavo — API (Monolito)
+# El mapa del aventurero — API (Monolito)
 
 Gestor de mesas de **D&D**: personajes, inventario, contenido de Dungeon Master
 (historias, grimorio, bestiario) y un **modo mazmorra en tiempo real**.
